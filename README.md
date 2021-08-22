@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipul Kumar Singh</h1>
 <h3 align="center">A passionate developer from India , full of enthusiam , etc</h3>
 
-
-**vipul-2003/vipul-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 
