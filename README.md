@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Kumar Singh</h1>
-<h3 align="center">A passionate developer from India , full of enthusiam , etc</h3>
+<h3 align="center">A passionate developer from India , full of enthusiam , interested in learning Flutter and Dart , etc</h3>
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my skills to improve**
 
-- 🌱 I’m currently learning **Basic DS Algorithms** And **Flutter**
+- 🌱 I’m currently learning **Basic DS Algorithms** And **Flutter- Dart**
 
 - 📫 How to reach me **vipulrjput@gmail.com**                    
 
