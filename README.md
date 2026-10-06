@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my skills to improve**
 
-- 🌱 I’m currently learning **Basic DS Algorithms** And **Flutter- Dart**
-
-- 📫 How to reach me **vipulrjput@gmail.com**                    
+- 🌱 I’m currently learning **Basic DS Algorithms** And **Flutter- Dart**                 
 
 - ⚡ Fun fact **I love to play with code ...**
 
